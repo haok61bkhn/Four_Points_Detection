@@ -2,7 +2,9 @@
 ------------------------------------------
 Demo :
     
-    download weights in https://drive.google.com/file/d/1YLC88RKG-2IYnhqW7uWRHIgbi04JWk4p/view?usp=sharing and put at folder detection
+    download weights and put at folder detection 
+   https://drive.google.com/file/d/1YLC88RKG-2IYnhqW7uWRHIgbi04JWk4p/view?usp=sharing 
+     
     python3 test.py ( with license plate)
     you can edit config at detection/config.py and detection/data/config.py ( mostly image_target )
 
