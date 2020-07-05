@@ -7,7 +7,8 @@ Demo :
 
 ------------------------------------------
 
-Train:
+Train: (go to folder detection)
+
  
   Dataset:
       
@@ -16,7 +17,8 @@ Train:
       you can edit custom_dataset that has format similar detection/data/custom_data.py
   
   Run:
-  
+     
+      
       1) Edit config in train.py ( have 2 backbone mobilenet0.25 and resnet50)
       
       2) python3 train.py    
