@@ -1,7 +1,8 @@
 # Four_Points_Detection
 ------------------------------------------
 Demo :
-
+    
+    download weights in https://drive.google.com/file/d/1YLC88RKG-2IYnhqW7uWRHIgbi04JWk4p/view?usp=sharing and put at folder detection
     python3 test.py ( with license plate)
     you can edit config at detection/config.py and detection/data/config.py ( mostly image_target )
 
@@ -15,7 +16,7 @@ Train: (go to folder detection)
       make data by labelme tool
       example in data/dataset
       you can edit custom_dataset that has format similar detection/data/custom_data.py
-  
+        
   Run:
      
       
